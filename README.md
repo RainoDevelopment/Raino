@@ -1,10 +1,5 @@
 ### Hi there 👋
-
-<!--
-**LangBuddha/LangBuddha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
+Here is Me: 
 - 🔭 I’m currently working on ... Westlife RP
 - 🌱 I’m currently learning ... C#, Html5
 - 👯 I’m looking to collaborate on ... Nopixel
